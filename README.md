@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+nuxt3, vuetify3, eslint, pinia
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
